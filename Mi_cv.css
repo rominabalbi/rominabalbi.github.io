@@ -41,8 +41,8 @@ body {
   /* Estilos para la sección de información */
   
  p#descripcion{
-    padding-left: 450px;
-    padding-right: 450px;
+    padding-left: 30%;
+    padding-right: 30%;
   }
 
   /* Estilos para la tabla de trabajos */
