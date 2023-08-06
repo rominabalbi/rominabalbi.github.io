@@ -1,0 +1,74 @@
+/* Estilos generales */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 10px;
+    padding: 10px;
+  }
+  
+  h2 {
+    color: #333;
+    text-align: center;
+  }
+  
+  a {
+    text-decoration: none;
+    text-align: center;
+    color: #007bff;
+  }
+  
+  /* Estilos para la sección de presentación */
+  
+  .presentacion#inicial {
+    text-align: center;
+    color: white;
+    padding: 350px;
+    background-color: #327edb;
+  }
+  
+  .presentacion h1 {
+    font-size: 35px;
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  
+  .presentacion p {
+    font-size: 16px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para la sección de información */
+  
+ p#descripcion{
+    padding-left: 450px;
+    padding-right: 450px;
+  }
+
+  /* Estilos para la tabla de trabajos */
+  
+  .trabajos {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .trabajos th,
+  .trabajos td {
+    text-align: center;
+    padding: 10px;
+  }
+  
+  /* Estilos para la sección de contactos */
+  
+  h2 {
+    margin-top: 40px;
+  }
+  
+  p {
+    margin-bottom: 10px;
+  }
+
+  .contacto {
+    text-align: center;
+  }
